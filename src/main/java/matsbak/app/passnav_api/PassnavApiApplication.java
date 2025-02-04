@@ -8,7 +8,7 @@ import org.springframework.boot.context.ApplicationPidFileWriter;
  * The PassnavApiApplication class represents the runner class for the application.
  * 
  * @author Mats Bakketeig
- * @version v1.0 (2025.02.04)
+ * @version v0.0.1 (2025.02.04)
  */
 @SpringBootApplication
 public class PassnavApiApplication {

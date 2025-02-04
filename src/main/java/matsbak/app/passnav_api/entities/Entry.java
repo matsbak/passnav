@@ -10,7 +10,7 @@ import jakarta.persistence.Id;
  * <p>The class uses JPA annotations for ORM operations.</p>
  * 
  * @author Mats Bakketeig
- * @version v1.0 (2024.02.04)
+ * @version v0.0.1 (2024.02.04)
  */
 @Entity(name = "entry")
 @Schema(description = "An entry entity, representing a specific entry in the list")

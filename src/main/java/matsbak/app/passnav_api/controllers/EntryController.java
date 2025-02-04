@@ -26,7 +26,7 @@ import matsbak.app.passnav_api.services.EntryService;
  * <p>All HTTP requests are handeled in this class.</p>
  * 
  * @author Mats Bakketeig
- * @version v1.0 (2024.02.04)
+ * @version v0.0.1 (2024.02.04)
  */
 @CrossOrigin
 @RestController

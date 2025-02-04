@@ -12,7 +12,7 @@ import matsbak.app.passnav_api.repositories.EntryRepository;
  * The EntryService class represents the service class for the Entry entity.
  * 
  * @author Mats Bakketeig
- * @version v1.0 (2024.04.02)
+ * @version v0.0.1 (2024.04.02)
  */
 @Service
 public class EntryService {
