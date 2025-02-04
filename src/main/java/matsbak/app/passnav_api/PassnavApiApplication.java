@@ -1,0 +1,13 @@
+package matsbak.app.passnav_api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PassnavApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PassnavApiApplication.class, args);
+	}
+
+}
