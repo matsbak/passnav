@@ -48,4 +48,13 @@ public class Entry {
   public String getPassword() {
     return this.password;
   }
+
+  /**
+   * Returns true if the entry is valid or false otherwise.
+   * 
+   * @return True if entry is valid or false otherwise
+   */
+  public boolean isValid() {
+    return !this.name.isBlank() && this.name != null;
+  }
 }
