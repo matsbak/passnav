@@ -12,5 +12,4 @@ import matsbak.app.passnav_api.entities.Entry;
  * @version v1.0 (2024.04.02)
  */
 @Repository
-public interface EntryRepository extends CrudRepository<Entry, String> {
-}
+public interface EntryRepository extends CrudRepository<Entry, String> {}

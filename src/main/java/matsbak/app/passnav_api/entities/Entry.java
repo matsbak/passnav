@@ -15,9 +15,11 @@ import jakarta.persistence.Id;
 @Entity(name = "entry")
 @Schema(description = "An entry entity, representing a specific entry in the list")
 public class Entry {
+
   @Id
   @Schema(description = "Entry name")
   private String name;
+
   @Schema(description = "Stored password")
   private String password;
 

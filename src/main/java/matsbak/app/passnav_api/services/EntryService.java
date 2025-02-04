@@ -16,6 +16,7 @@ import matsbak.app.passnav_api.repositories.EntryRepository;
  */
 @Service
 public class EntryService {
+
   @Autowired
   private EntryRepository entryRepository;
 
