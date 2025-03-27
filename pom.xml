@@ -22,7 +22,7 @@
 
     <junit.jupiter.version>5.13.0-M1</junit.jupiter.version>
 
-    <application.main>matsbak.app.PassnavLauncher</application.main>
+    <application.main>matsbak.app.PassnavApp</application.main>
   </properties>
 
   <build>
